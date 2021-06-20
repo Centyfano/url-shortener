@@ -11,7 +11,7 @@ Create a file `config.env`
 Define the following variables:  
 
 * PORT = _Port number onto which the port will run_
-* MONGO_URI = _Mongodb Connection URI_
+* MONGO_URI = _Mongodb Connection URI (Create a [Mongodb atlas cluster](https://cloud.mongodb.com/), paste the connection string here_
 * DOMAIN = _Short domain onto which the shortened URL will return. For development you can test with (http://localhost:{PORT})_
 
 ### Packages installation
